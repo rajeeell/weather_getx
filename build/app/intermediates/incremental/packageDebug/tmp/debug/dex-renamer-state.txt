@@ -1,0 +1,4 @@
+#Sat Aug 26 02:11:44 IST 2023
+base.0=C\:\\Users\\raj_t\\Downloads\\weatherapp_starter_project-5d09c88b986a6506d1c9076e75f7793c3d40e619\\weather_getx\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
