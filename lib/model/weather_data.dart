@@ -1,6 +1,6 @@
-import 'package:weatherapp_starter_project/model/weather_data_current.dart';
-import 'package:weatherapp_starter_project/model/weather_data_daily.dart';
-import 'package:weatherapp_starter_project/model/weather_data_hourly.dart';
+import 'package:WeatherNow/model/weather_data_current.dart';
+import 'package:WeatherNow/model/weather_data_daily.dart';
+import 'package:WeatherNow/model/weather_data_hourly.dart';
 
 class WeatherData {
   final WeatherDataCurrent? current;

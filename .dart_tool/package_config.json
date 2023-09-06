@@ -266,13 +266,13 @@
       "languageVersion": "3.1"
     },
     {
-      "name": "weatherapp_starter_project",
+      "name": "WeatherNow",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2023-08-25T19:56:16.805627Z",
+  "generated": "2023-09-06T15:41:47.104769Z",
   "generator": "pub",
   "generatorVersion": "3.1.0"
 }
